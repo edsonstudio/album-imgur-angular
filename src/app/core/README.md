@@ -1,0 +1,1 @@
+##  Obs.: O módulo Core deve conter coisas como singletons, serviços universais e componentes só usados uma vez como navbar e footer.

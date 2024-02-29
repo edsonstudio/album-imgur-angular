@@ -1,0 +1,1 @@
+## Obs.:  O módulo Shared deve conter componentes, diretivas e pipes que serão reutilizados em todo o aplicativo.

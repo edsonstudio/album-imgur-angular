@@ -1,0 +1,16 @@
+.footer {
+  padding: 0.25rem;
+  display: flex;
+  position: absolute;
+  bottom: 0px;
+  align-items: center;
+  .copyright {
+    display: flex;
+  }
+  .img-logo {
+    display: flex;
+    height: 20px;
+    justify-content: flex-start;
+    margin: 10px;
+  }
+}

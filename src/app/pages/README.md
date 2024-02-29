@@ -1,0 +1,1 @@
+## Obs.: O módulo Pages deve conter as paginas e seus componentes, servicos específicos.
